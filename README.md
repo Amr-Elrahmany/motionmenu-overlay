@@ -17,7 +17,7 @@ A responsive full-screen navigation menu built with HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
 
-Coming soon...
+(https://amr-elrahmany.github.io/motionmenu-overlay/)
 
 ## 🛠 Technologies Used
 
